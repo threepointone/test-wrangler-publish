@@ -1,0 +1,6 @@
+name = "test-publish"
+main = "src/index.ts"
+compatibility_date = "2022-03-15"
+
+[vars]
+FOO = "test"
